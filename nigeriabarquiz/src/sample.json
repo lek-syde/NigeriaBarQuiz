@@ -1,0 +1,44 @@
+"questions": [
+        {
+            "id": 1,
+            "question": "What is the capital of india ?",
+            "answers": [
+                {
+                    "id": 3,
+                    "questionOption": "Abuja",
+                    "correct": false
+                },
+                {
+                    "id": 2,
+                    "questionOption": "Damaturu",
+                    "correct": false
+                },
+                {
+                    "id": 1,
+                    "questionOption": "New Dehli",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "question": "When was github founded ?",
+            "answers": [
+                {
+                    "id": 4,
+                    "questionOption": "2007",
+                    "correct": false
+                },
+                {
+                    "id": 5,
+                    "questionOption": "2006",
+                    "correct": false
+                },
+                {
+                    "id": 6,
+                    "questionOption": "2008",
+                    "correct": true
+                }
+            ]
+        }
+    ]
